@@ -28,6 +28,7 @@ to replace it(Windows 10):
 10. After that open regedit and go to the path that i specified
 11. And find the one that match the id(dont mind the things after the id) and replace it
 
+[This repo is just a template lol]
 
 
 

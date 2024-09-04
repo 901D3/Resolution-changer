@@ -6,8 +6,7 @@ AutoHotkey v2 and v1
 
 you can inspect the code and change it so it will fit for you
 
-
-
+If you want to make a exe from this repo then you have to fork first and post your exe to the forked repo
 
 Note:
 run main.ahk(why did i name it like that...) as admin because it require admin to be modify registry
@@ -25,7 +24,9 @@ to replace it(Windows 10):
 6. Click Properties
 7. Goto "Details" in the poped up window
 8. Click on "Device Desciption" and choose 'Hardware Ids"
-9. Remember the Id, usually 
+9. Remember the Id, usually after "MONITOR\"
+10. After that open regedit and go to the path that i specified
+11. And find the one that match the id(dont mind the things after the id) and replace it
 
 
 

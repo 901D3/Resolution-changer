@@ -1,5 +1,5 @@
 # Resolution changer
-### The only way i can make a custom resolution without getting black screen
+### A very small repo(or maybe template) for changing resolution with **NO LIMITS**
 
 requirement:
 AutoHotkey v2 and v1
